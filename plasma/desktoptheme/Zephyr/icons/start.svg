@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 54 32" version="1.1">
+ <defs id="materia">
+  <style type="text/css" id="current-color-scheme">
+   .ColorScheme-Background {color:#181818; } .ColorScheme-ButtonBackground { color:#343434; } .ColorScheme-Highlight { color:#4285f4; } .ColorScheme-Text { color:#dfdfdf; } .ColorScheme-ViewBackground { color:#242424; } .ColorScheme-NegativeText { color:#f44336; } .ColorScheme-PositiveText { color:#4caf50; } .ColorScheme-NeutralText { color:#ff9800; }
+  </style>
+ </defs>
+ <g id="16-16-start-here-kde" transform="translate(0,13)">
+  <path id="rect1340-7" style="fill:currentColor;" d="M -12.909091,5.0000001 C -13.513455,5.0000001 -14,5.486545 -14,6.0909091 V 15.909091 C -14,16.513455 -13.513455,17 -12.909091,17 h 2.181819 V 8.2727281 h 4.363636 v -3.272728 z m 7.636363,0 V 17 h 2.181819 C -2.486545,17 -2,16.513455 -2,15.909091 V 6.0909091 C -2,5.486545 -2.486545,5.0000001 -3.090909,5.0000001 Z m -4.363636,4.363636 V 17 h 3.272728 V 9.3636361 Z" class="ColorScheme-Highlight" />
+  <path style="opacity:1;fill:none" d="M -16,3 -16,19 0,19 0,3 -16,3 Z" id="path17" />
+ </g>
+ <g transform="translate(1,-1)" id="22-22-start-here-kde">
+  <path id="rect1340-7-6" style="fill:currentColor;" d="M 3.454545,14 C 2.648727,14 2,14.648727 2,15.454545 v 13.09091 C 2,29.351273 2.648727,30 3.454545,30 H 6.363637 V 18.363637 h 5.818181 V 14 Z m 10.181818,0 v 16 h 2.909092 C 17.351273,30 18,29.351273 18,28.545455 V 15.454545 C 18,14.648727 17.351273,14 16.545455,14 Z M 7.818182,19.818182 V 30 h 4.363636 V 19.818182 Z" class="ColorScheme-Highlight" />
+  <rect style="fill:none;fill-opacity:1;stroke:none" id="rect4150" width="22" height="22" x="-1" y="11" />
+ </g>
+ <g transform="translate(-46.085716,-1)" id="start-here-kde">
+  <path id="rect1340-7-3" style="fill:currentColor;" d="M 74.267534,5 C 73.058807,5 72.085716,5.973091 72.085716,7.181818 V 26.818182 C 72.085716,28.026909 73.058807,29 74.267534,29 h 4.363637 V 11.545455 h 8.727272 V 5 Z m 15.272727,0 v 24 h 4.363637 c 1.208727,0 2.181818,-0.973091 2.181818,-2.181818 V 7.181818 C 96.085716,5.973091 95.112625,5 93.903898,5 Z m -8.727272,8.727273 V 29 h 6.545454 V 13.727273 Z" class="ColorScheme-Highlight" />
+  <rect style="fill:none;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" id="rect3343" width="32" height="32" x="68.085716" y="1" />
+ </g>
+</svg>

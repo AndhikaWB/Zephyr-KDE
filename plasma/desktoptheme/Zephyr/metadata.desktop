@@ -1,0 +1,19 @@
+[Desktop Entry]
+Name=Zephyr
+Comment=Default theme with slightly modified Materia icons
+X-KDE-PluginInfo-Author=Andhika, Papirus Development Team
+X-KDE-PluginInfo-Name=Zephyr
+X-KDE-PluginInfo-Version=20230128
+X-KDE-PluginInfo-Category=Plasma Theme
+X-KDE-PluginInfo-License=CC BY-ND (GPL in Breeze Elements)
+X-KDE-PluginInfo-EnabledByDefault=true
+X-Plasma-API=5.0
+
+[AdaptiveTransparency]
+enabled=true
+
+[ContrastEffect]
+enabled=true
+contrast=0.17
+intensity=0.7
+saturation=9
