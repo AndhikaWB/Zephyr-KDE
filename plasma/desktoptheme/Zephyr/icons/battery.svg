@@ -6,7 +6,7 @@
  </defs>
  <g id="22-22-battery-ups" transform="translate(255.46001,-426.49999)">
   <rect style="opacity:0.001" width="22" height="22" x="192.54" y="404.5"/>
-  <path style="fill:currentColor" class="ColorScheme-PositiveText" d="m 197.53573,408.50504 v 15 h 12 v -15 c 0.0768,-1.06936 -1,-1 -1,-1 h -10 c 0,0 -1,-0.004 -1,1 z m 6,1 v 3 h 2 l -2,5 v -3 h -2 z m -4,10 h 1 v 2 h -1 z m 2,0 h 1 v 2 h -1 z m 2,0 h 1 v 2 h -1 z m 3,0 c 0.55229,0 1,0.44772 1,1 0,0.55228 -0.44771,1 -1,1 -0.55229,0 -1,-0.44772 -1,-1 0,-0.55228 0.44771,-1 1,-1 z"/>
+  <path style="fill:currentColor" class="ColorScheme-Text" d="m 197.53573,408.50504 v 15 h 12 v -15 c 0.0768,-1.06936 -1,-1 -1,-1 h -10 c 0,0 -1,-0.004 -1,1 z m 6,1 v 3 h 2 l -2,5 v -3 h -2 z m -4,10 h 1 v 2 h -1 z m 2,0 h 1 v 2 h -1 z m 2,0 h 1 v 2 h -1 z m 3,0 c 0.55229,0 1,0.44772 1,1 0,0.55228 -0.44771,1 -1,1 -0.55229,0 -1,-0.44772 -1,-1 0,-0.55228 0.44771,-1 1,-1 z"/>
  </g>
  <g id="22-22-Battery" transform="translate(-214.53999,-404.5)">
   <rect style="opacity:0.001" width="22" height="22" x="-404.5" y="214.54" transform="rotate(-90)"/>
@@ -65,7 +65,7 @@
  </g>
  <g id="22-22-AcAdapter" transform="translate(482,7.6293946e-6)">
   <rect style="opacity:0.001" width="22" height="22" x="0" y="-66" transform="rotate(-90)"/>
-  <path style="fill:currentColor" class="ColorScheme-PositiveText" d="m -55,-15 v 3 h 2 l -2,5 v -3 h -2 z"/>
+  <path style="fill:currentColor" class="ColorScheme-Text" d="m -55,-15 v 3 h 2 l -2,5 v -3 h -2 z"/>
  </g>
  <g id="Fill100" transform="translate(31.999998)">
   <rect style="opacity:0.001" width="32" height="32" x="-32" y="0" transform="rotate(-90)"/>
@@ -122,11 +122,11 @@
  </g>
  <g id="AcAdapter" transform="translate(31.999998)">
   <rect style="opacity:0.001" width="32" height="32" x="-32" y="384" transform="rotate(-90)"/>
-  <path style="fill:currentColor" class="ColorScheme-PositiveText" d="m 400,10 v 5 h 3 l -3,7 v -5 h -3 z"/>
+  <path style="fill:currentColor" class="ColorScheme-Text" d="m 400,10 v 5 h 3 l -3,7 v -5 h -3 z"/>
  </g>
  <g id="battery-ups" transform="translate(31.999998)">
   <rect style="opacity:0.001" width="32" height="32" x="416" y="0"/>
-  <path style="fill:currentColor" class="ColorScheme-PositiveText" d="m 424.5,4.0019531 c 0,0 -1.5,-0.00591 -1.5,1.5 V 28 h 17.99414 V 5.5019531 c 0.11516,-1.6039484 -1.5,-1.5 -1.5,-1.5 z M 432,7 v 5 h 3 l -3,7 v -5 h -3 z m -6,15 h 1 v 3 h -1 z m 3,0 h 1 v 3 h -1 z m 3,0 h 1 v 3 h -1 z m 4.5,0 c 0.82844,0 1.5,0.671626 1.5,1.5 0,0.828372 -0.67156,1.5 -1.5,1.5 -0.82843,0 -1.5,-0.671628 -1.5,-1.5 0,-0.828374 0.67157,-1.5 1.5,-1.5 z"/>
+  <path style="fill:currentColor" class="ColorScheme-Text" d="m 424.5,4.0019531 c 0,0 -1.5,-0.00591 -1.5,1.5 V 28 h 17.99414 V 5.5019531 c 0.11516,-1.6039484 -1.5,-1.5 -1.5,-1.5 z M 432,7 v 5 h 3 l -3,7 v -5 h -3 z m -6,15 h 1 v 3 h -1 z m 3,0 h 1 v 3 h -1 z m 3,0 h 1 v 3 h -1 z m 4.5,0 c 0.82844,0 1.5,0.671626 1.5,1.5 0,0.828372 -0.67156,1.5 -1.5,1.5 -0.82843,0 -1.5,-0.671628 -1.5,-1.5 0,-0.828374 0.67157,-1.5 1.5,-1.5 z"/>
  </g>
  <g id="profile-powersave" transform="translate(465,-27)">
   <rect style="opacity:0.001"  width="22" height="22" x="-27" y="5" transform="rotate(-90)"/>
